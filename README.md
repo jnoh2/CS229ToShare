@@ -1,4 +1,7 @@
 # CS229ToShare
+UPDATE: 12/14/18 10:00 AM
+
+We were told by our data provider that he (and his PI) would much rather prefer having the data not be public. Apologies for not providing you with the data. If you'd like the data, please e-mail jnoh2@stanford.edu with the written consent that you will not use it for other purposes. Sorry for the inconvenience!
 
 Specs: 
 
